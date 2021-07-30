@@ -975,7 +975,10 @@
 }
 
 @media(max-width: 320px){
-
+    .header .row .logo {
+        margin-top: -15px;
+        margin-left: 30px;
+    }
     body .invite{
         // width: 100%;
         background: transparent;
